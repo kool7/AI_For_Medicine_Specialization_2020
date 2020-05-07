@@ -1,1 +1,1 @@
-# AI_For_Medical_Diagnosis_2020
+# AI For Medical Diagnosis 2020
