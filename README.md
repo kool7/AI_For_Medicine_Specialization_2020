@@ -1,5 +1,10 @@
 # AI In Medicine Specialization 2020 (Coursera)
 
+# Ungraded Labs
+
+* Course 1: AI for Medical Diagnosis
+
+ * [Week 1 - Ungraded Lab - Counting labels and weighted loss function]()
 
 # Programming Assignments
 
