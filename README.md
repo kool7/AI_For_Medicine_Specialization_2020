@@ -6,7 +6,8 @@
 
   * [Week 1 - Ungraded Lab - Data Exploration & Image Pre-Processing](https://github.com/kool7/AI_For_Medicine_Specialization_2020/blob/master/AI%20For%20Medical%20Diagnosis/week1/Data_Exploration_%26_Image_Pre-Processing.ipynb)
   * [Week 1 - Ungraded Lab - Counting labels and weighted loss function](https://github.com/kool7/AI_For_Medicine_Specialization_2020/blob/master/AI%20For%20Medical%20Diagnosis/week1/utf-8''AI4M_C1_W1_lecture_ex_02.ipynb)
-
+  * [Week 3 - Ungraded Lab - Brain MRI Data](
+https://github.com/kool7/AI_For_Medicine_Specialization_2020/blob/master/AI%20For%20Medical%20Diagnosis/week3/Explore%20MRI%20data.ipynb)
 # Programming Assignments
 
 * Course 1: AI for Medical Diagnosis
