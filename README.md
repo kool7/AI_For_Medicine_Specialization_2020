@@ -14,7 +14,7 @@
   * [Week 2 - Programming Assignment - Evaluation of Diagnostic Models](https://github.com/kool7/AI_For_Medicine_Specialization_2020/blob/master/AI%20For%20Medical%20Diagnosis/week2/utf-8''C1M2_Assignment.ipynb)  [[util.py]](https://github.com/kool7/AI_For_Medicine_Specialization_2020/blob/master/AI%20For%20Medical%20Diagnosis/week2/utf-8''util.py)
   * [Week 3 - Programminng Assignment - Brain Tumor Auto-Segmentation for Magnetic Resonance Imaging (MRI)](https://github.com/kool7/AI_For_Medicine_Specialization_2020/blob/master/AI%20For%20Medical%20Diagnosis/week3/Brain_Tumor_Auto-Segmentation_for_Magnetic_Resonance_Imaging_(MRI).ipynb) [[util.py]](https://github.com/kool7/AI_For_Medicine_Specialization_2020/blob/master/AI%20For%20Medical%20Diagnosis/week3/utf-8''util.py)
 
-## Course 1: AI for Medical Prognosis
+## Course 2: AI for Medical Prognosis
 
 ### Ungraded Labs
 
